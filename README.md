@@ -23,7 +23,8 @@
     }
 </style>
       <tr>
-        <td colspan="4">Elephent & The Scenery</td>
+        <td colspan="4"
+            style="text-align: center;">Elephent & The Scenery</td>
     </tr>
     <tr>
       <td  style="background-color:rgb(128,128,128);
@@ -32,7 +33,8 @@
           style="font-family: 'Brush Script MT', cursive;">Dark Green</td>
       <td  style="background-color:rgb(245, 222, 179);
           style="font-family: monospace;">wheat</td>
-      <td  style="background-color:rgb(255,255,240);"style="text-align: center;">Ivory</td>
+      <td  style="background-color:rgb(255,255,240);
+          style="text-align: center;">Ivory</td>
     </tr>
     <tr>
       <td style="text-align: center;">rgb (128,128,128)</td>
